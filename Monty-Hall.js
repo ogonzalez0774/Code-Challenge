@@ -27,7 +27,7 @@ function game(num, changeDoor) {
 }
 
 
-console.log(game(10000, changeDoor = true));  
+console.log(game(10000,true));  
 
-console.log(game(10000, changeDoor = false));  
+console.log(game(10000,false));  
 
